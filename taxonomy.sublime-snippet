@@ -6,6 +6,7 @@ ThemePlate()->taxonomy(
 		'singular' => __( '${2:Singular Name}', '${3:text-domain}' ),
 		'plural'   => __( '${4:Plural Name}', '${3:text-domain}' ),
 		'type'     => '${5:post_type}',
+		'args'     => array(${6}),
 	)
 );
 
