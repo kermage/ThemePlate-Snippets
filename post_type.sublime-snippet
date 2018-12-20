@@ -9,7 +9,7 @@ ThemePlate()->post_type(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Post Type</description>
     <scope>source.php</scope>
 </snippet>

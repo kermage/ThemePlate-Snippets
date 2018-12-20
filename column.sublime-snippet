@@ -9,7 +9,7 @@ ThemePlate()->column(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Column</description>
     <scope>source.php</scope>
 </snippet>

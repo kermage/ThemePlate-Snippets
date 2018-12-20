@@ -9,7 +9,7 @@ ThemePlate()->user_meta(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>User Meta</description>
     <scope>source.php</scope>
 </snippet>

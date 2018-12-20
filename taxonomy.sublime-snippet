@@ -10,7 +10,7 @@ ThemePlate()->taxonomy(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Taxonomy</description>
     <scope>source.php</scope>
 </snippet>

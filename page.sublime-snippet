@@ -8,7 +8,7 @@ ThemePlate()->page(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Page</description>
     <scope>source.php</scope>
 </snippet>

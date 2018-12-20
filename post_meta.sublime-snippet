@@ -9,7 +9,7 @@ ThemePlate()->post_meta(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Post Meta</description>
     <scope>source.php</scope>
 </snippet>

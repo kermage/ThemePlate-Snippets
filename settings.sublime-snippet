@@ -9,7 +9,7 @@ ThemePlate()->settings(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Settings</description>
     <scope>source.php</scope>
 </snippet>

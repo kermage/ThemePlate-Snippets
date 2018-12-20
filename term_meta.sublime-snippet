@@ -9,7 +9,7 @@ ThemePlate()->term_meta(
 );
 
 ]]></content>
-    <tabTrigger>ThemePlate</tabTrigger>
+    <tabTrigger>TP</tabTrigger>
     <description>Term Meta</description>
     <scope>source.php</scope>
 </snippet>
