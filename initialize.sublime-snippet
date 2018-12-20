@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate(
+	array(
+		'title' => '${1}',
+		'key'   => '${2}',
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Initialize</description>
+    <scope>source.php</scope>
+</snippet>
