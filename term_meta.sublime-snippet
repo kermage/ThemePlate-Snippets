@@ -10,6 +10,6 @@ ThemePlate()->term_meta(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Term Meta</description>
+    <description>ThemePlate: Term Meta</description>
     <scope>source.php</scope>
 </snippet>

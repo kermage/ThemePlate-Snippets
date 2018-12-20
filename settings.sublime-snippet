@@ -10,6 +10,6 @@ ThemePlate()->settings(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Settings</description>
+    <description>ThemePlate: Settings</description>
     <scope>source.php</scope>
 </snippet>

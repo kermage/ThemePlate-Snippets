@@ -9,6 +9,6 @@ ThemePlate()->page(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Page</description>
+    <description>ThemePlate: Page</description>
     <scope>source.php</scope>
 </snippet>

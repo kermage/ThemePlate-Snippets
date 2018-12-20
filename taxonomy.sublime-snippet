@@ -11,6 +11,6 @@ ThemePlate()->taxonomy(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Taxonomy</description>
+    <description>ThemePlate: Taxonomy</description>
     <scope>source.php</scope>
 </snippet>

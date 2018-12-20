@@ -10,6 +10,6 @@ ThemePlate()->post_meta(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Post Meta</description>
+    <description>ThemePlate: Post Meta</description>
     <scope>source.php</scope>
 </snippet>

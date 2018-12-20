@@ -9,6 +9,6 @@ ThemePlate(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Initialize</description>
+    <description>ThemePlate: Initialize</description>
     <scope>source.php</scope>
 </snippet>

@@ -10,6 +10,6 @@ ThemePlate()->user_meta(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>User Meta</description>
+    <description>ThemePlate: User Meta</description>
     <scope>source.php</scope>
 </snippet>

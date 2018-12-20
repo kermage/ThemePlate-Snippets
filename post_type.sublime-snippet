@@ -10,6 +10,6 @@ ThemePlate()->post_type(
 
 ]]></content>
     <tabTrigger>TP</tabTrigger>
-    <description>Post Type</description>
+    <description>ThemePlate: Post Type</description>
     <scope>source.php</scope>
 </snippet>
