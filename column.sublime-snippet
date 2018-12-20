@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate()->column(
+	array(
+		'id'       => '${1}',
+		'title'    => __( '${2}', '${3}' ),
+		'callback' => '${4}',
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Column</description>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate()->post_type(
+	array(
+		'name'     => '${1}',
+		'singular' => __( '${2}', '${3}' ),
+		'plural'   => __( '${4}', '${3}' ),
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Post Type</description>
+    <scope>source.php</scope>
+</snippet>

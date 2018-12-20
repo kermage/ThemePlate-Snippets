@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate()->settings(
+	array(
+		'id'     => '${1}',
+		'title'  => __( '${2}', '${3}' ),
+		'fields' => array(${4}),
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Settings</description>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate()->taxonomy(
+	array(
+		'name'     => '${1}',
+		'singular' => __( '${2}', '${3}' ),
+		'plural'   => __( '${4}', '${3}' ),
+		'type'     => '${5}',
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Taxonomy</description>
+    <scope>source.php</scope>
+</snippet>

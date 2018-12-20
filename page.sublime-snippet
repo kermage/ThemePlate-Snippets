@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate()->page(
+	array(
+		'id'    => '${1}',
+		'title' => __( '${2}', '${3}' ),
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Page</description>
+    <scope>source.php</scope>
+</snippet>

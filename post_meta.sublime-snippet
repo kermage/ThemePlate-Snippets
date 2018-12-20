@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+ThemePlate()->post_meta(
+	array(
+		'id'     => '${1}',
+		'title'  => __( '${2}', '${3}' ),
+		'fields' => array(${4}),
+	)
+);
+
+]]></content>
+    <tabTrigger>ThemePlate</tabTrigger>
+    <description>Post Meta</description>
+    <scope>source.php</scope>
+</snippet>
