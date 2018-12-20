@@ -2,10 +2,10 @@
     <content><![CDATA[
 ThemePlate()->taxonomy(
 	array(
-		'name'     => '${1}',
-		'singular' => __( '${2}', '${3}' ),
-		'plural'   => __( '${4}', '${3}' ),
-		'type'     => '${5}',
+		'name'     => '${1:name}',
+		'singular' => __( '${2:Singular Name}', '${3:text-domain}' ),
+		'plural'   => __( '${4:Plural Name}', '${3:text-domain}' ),
+		'type'     => '${5:post_type}',
 	)
 );
 

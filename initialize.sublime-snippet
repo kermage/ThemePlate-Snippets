@@ -2,8 +2,8 @@
     <content><![CDATA[
 ThemePlate(
 	array(
-		'title' => '${1}',
-		'key'   => '${2}',
+		'title' => '${1:Theme Name}',
+		'key'   => '${2:theme_prefix}',
 	)
 );
 
