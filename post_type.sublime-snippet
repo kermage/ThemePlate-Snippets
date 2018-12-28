@@ -4,8 +4,8 @@ ThemePlate()->post_type(
 	array(
 		'name'     => '${1:name}',
 		'singular' => __( '${2:Singular Name}', '${3:text-domain}' ),
-		'plural'   => __( '${4:Plural Name}', '${3:text-domain}' ),
-		'args'     => array(${5}),
+		'plural'   => __( '${4:Plural Name}', '${3:text-domain}' ),${5:
+		'args'     => array(${6}),}
 	)
 );
 

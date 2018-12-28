@@ -4,8 +4,8 @@ ThemePlate()->column(
 	array(
 		'id'       => '${1:id}',
 		'title'    => __( '${2:Title}', '${3:text-domain}' ),
-		'callback' => '${4:callable_function}',
-		'position' => '${5:0}',
+		'callback' => '${4:callable_function}',${5:
+		'position' => '${6:0}',}
 	)
 );
 
