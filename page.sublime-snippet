@@ -2,10 +2,10 @@
     <content><![CDATA[
 ThemePlate()->page(
 	array(
-		'id'    => '${1:id}',
-		'title' => __( '${2:Title}', '${3:text-domain}' ),${4:
+		'id'    => '${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}',
+		'title' => __( '${1:Title}', '${2:text-domain}' ),${4:
 		'parent' => '${5}',}${6:
-		'menu' => __( '${7:${2:Title}}', '${3:text-domain}' ),}${8:
+		'menu' => __( '${7:${1:Title}}', '${2:text-domain}' ),}${8:
 		'icon' => '${9}',}${10:
 		'position' => '${11:null}',}${12:
 		'capability' => '${13:manage_options}',}
