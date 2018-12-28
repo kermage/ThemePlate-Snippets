@@ -5,7 +5,7 @@ ThemePlate()->column(
 		'id'       => '${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}',
 		'title'    => __( '${1:Title}', '${2:text-domain}' ),
 		'callback' => '${4:callable_function}',${5:
-		'position' => '${6:0}',}
+		'position' => ${6:0},}
 	)
 );
 

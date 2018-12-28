@@ -7,7 +7,7 @@ ThemePlate()->page(
 		'parent' => '${5}',}${6:
 		'menu' => __( '${7:${1:Title}}', '${2:text-domain}' ),}${8:
 		'icon' => '${9}',}${10:
-		'position' => '${11:null}',}${12:
+		'position' => ${11:null},}${12:
 		'capability' => '${13:manage_options}',}
 	)
 );
