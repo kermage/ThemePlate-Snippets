@@ -4,13 +4,13 @@ ThemePlate()->term_meta(
 	array(
 		'id'     => '${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}',
 		'title'  => __( '${1:Title}', '${2:text-domain}' ),
-		'fields' => array(${4}),${5:
-		'description' => '${6}',}${7:
-		'show_on' => array(${8}),}${9:
-		'hide_on' => array(${10}),}${11:
-		'style' => '${12}',}${13:
-		'priority' => '${14:default}',}${15:
-		'taxonomy' => array(${16}),}
+		'fields' => array(${16}),${4:
+		'description' => '${5}',}${6:
+		'show_on' => array(${7}),}${8:
+		'hide_on' => array(${9}),}${10:
+		'style' => '${11}',}${12:
+		'priority' => '${13:default}',}${14:
+		'taxonomy' => array(${15}),}
 	)
 );
 
