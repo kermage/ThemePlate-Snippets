@@ -5,8 +5,8 @@ ThemePlate()->taxonomy(
 		'name'     => '${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}',
 		'singular' => __( '${1:Singular Name}', '${2:text-domain}' ),
 		'plural'   => __( '${4:Plural Name}', '${2:text-domain}' ),
-		'type'     => '${5:post_type}',${6:
-		'args'     => array(${7}),}
+		'type'     => '${5:post_type}',${7:
+		'args'     => array(${6}),}
 	)
 );
 

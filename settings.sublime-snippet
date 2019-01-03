@@ -4,12 +4,12 @@ ThemePlate()->settings(
 	array(
 		'id'     => '${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}',
 		'title'  => __( '${1:Title}', '${2:text-domain}' ),
-		'fields' => array(${14}),${4:
-		'description' => '${5}',}${6:
-		'style' => '${7}',}${8:
-		'priority' => '${9:default}',}${10:
-		'page' => '${11:options}',}${12:
-		'context' => '${13:normal}',}
+		'fields' => array(${14}),${5:
+		'description' => '${4}',}${7:
+		'style' => '${6}',}${9:
+		'priority' => '${8:default}',}${11:
+		'page' => '${10:options}',}${13:
+		'context' => '${12:normal}',}
 	)
 );
 

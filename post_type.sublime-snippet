@@ -4,8 +4,8 @@ ThemePlate()->post_type(
 	array(
 		'name'     => '${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}',
 		'singular' => __( '${1:Singular Name}', '${2:text-domain}' ),
-		'plural'   => __( '${4:Plural Name}', '${2:text-domain}' ),${5:
-		'args'     => array(${6}),}
+		'plural'   => __( '${4:Plural Name}', '${2:text-domain}' ),${6:
+		'args'     => array(${5}),}
 	)
 );
 
