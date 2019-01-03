@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+'${3:${1/(\w)|(?:[^_](\w))/(?1\L$1:)(?2_\L$2:)/g}}' => array(
+	'title'       => __( '${1:Title}', '${2:text-domain}' ),${4:
+	'description' => __( '${5:Description}', '${2:text-domain}' ),}${6:
+	'type'        => '${7:text}',}${8:
+	'default'     => '${9}',}${10:
+	'style'       => '${11}',}${12:
+	'repeatable'  => ${13:false},}
+),
+]]></content>
+    <tabTrigger>TP</tabTrigger>
+    <description>ThemePlate: Field</description>
+    <scope>source.php</scope>
+</snippet>
